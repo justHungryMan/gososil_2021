@@ -64,9 +64,11 @@ Monte Carlo Simulation
     - [Submit]()
 ---
 ## 과제
-- 오차율을 1% 미만으로 할 것
+- 실습 3에서 했던 원주율 구하기의 오차율을 1% 미만으로 할 것
 - ```rand()``` 함수 대신 c++ 의 내장 random 함수인 ```mt19937``` (메르센 트위스터 난수 생성기)를 이용할 것
-- 과제 정답 예시 ![assing_answer](./img/assign_answer.png)
+- 과제 정답 예시 
+
+![assing_answer](./img/assign_answer.png)
 ### 제출
 - 파일 제출
     - visual studio 빌드 - 솔루션 정리
