@@ -61,7 +61,7 @@ Monte Carlo Simulation
         - 20210907_p2_3.png (스크린샷)
         - 20210907_p3_1.png (스크린샷)
     - 위의 파일들을 1_p_20210907_고소실.zip 으로 압축 후 제출 (분반/학번/이름)
-    - [Submit]()
+    - [Submit](https://www.dropbox.com/request/csc0Osjzq0NPaatImukX)
 ---
 ## 과제
 - 실습 3에서 했던 원주율 구하기의 오차율을 1% 미만으로 할 것
@@ -77,5 +77,5 @@ Monte Carlo Simulation
     - 제출양식: {분반}\_{학번}\_{이름}.zip 
         - week1_practice (폴더)
         - 20210907_assign1.png (스크린샷)
-        - 위의 두 파일을 1_a_20210001_고소실.zip 으로 압축 후 제출
-    - [Submit]()
+        - 위의 두 파일을 1_a_20210907_고소실.zip 으로 압축 후 제출
+    - [Submit](https://www.dropbox.com/request/csc0Osjzq0NPaatImukX)
