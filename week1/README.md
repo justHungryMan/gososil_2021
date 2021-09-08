@@ -51,16 +51,16 @@ Monte Carlo Simulation
     - visual studio 빌드 - 솔루션 정리
     - 폴더에서 debug, release, x86 파일 삭제
     - 실행되었을때의 GUI 스크린샷
-    - 제출양식: {분반}\_{학번}\_{이름}.zip 
+    - 제출양식: {분반}\_p\_{학번}\_{이름}.zip 
         - week1_practice1 (폴더)
         - week1_practice2 (폴더) 
         - week1_practice3 (폴더)
-        - 20210907_p1_1.png (스크린샷)
-        - 20210907_p2_1.png (스크린샷)
-        - 20210907_p2_2.png (스크린샷)
-        - 20210907_p2_3.png (스크린샷)
-        - 20210907_p3_1.png (스크린샷)
-    - 위의 파일들을 1_p_20210907_고소실.zip 으로 압축 후 제출 (분반/학번/이름)
+        - 20121622_p1_1.png (스크린샷)
+        - 20121622_p2_1.png (스크린샷)
+        - 20121622_p2_2.png (스크린샷)
+        - 20121622_p2_3.png (스크린샷)
+        - 20121622_p3_1.png (스크린샷)
+    - 위의 파일들을 1_p_20121622_홍길동.zip 으로 압축 후 제출 (분반/학번/이름)
     - ex) 1_p_20121622_이성준.zip
     - [Submit](https://www.dropbox.com/request/csc0Osjzq0NPaatImukX)
 ---
@@ -72,11 +72,13 @@ Monte Carlo Simulation
 ![assing_answer](./img/assign_answer.png)
 ### 제출
 - 파일 제출
+    - 제출기한: ~~실습 종료일로부터 ~~ 까지~~ (수정예정)
     - visual studio 빌드 - 솔루션 정리
     - 폴더에서 debug, release, x86 파일 삭제
     - 실행되었을때의 GUI 스크린샷 ({학번}.png)
-    - 제출양식: {분반}\_{학번}\_{이름}.zip 
+    - 제출양식: {분반}\_a\_{학번}\_{이름}.zip 
         - week1_practice (폴더)
-        - 20210907_assign1.png (스크린샷)
-        - 위의 두 파일을 1_a_20210907_고소실.zip 으로 압축 후 제출
-    - [Submit](https://www.dropbox.com/request/csc0Osjzq0NPaatImukX)
+        - 20121622_a1.png (스크린샷)
+        - 20121622.pdf (보고서)
+        - 위의 두 파일을 1_a_20121622_홍길동.zip 으로 압축 후 제출
+    - ~~[Submit]()~~
