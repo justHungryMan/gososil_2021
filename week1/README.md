@@ -62,7 +62,7 @@ Monte Carlo Simulation
         - 20121622_p3_1.png (스크린샷)
     - 위의 파일들을 1_p_20121622_홍길동.zip 으로 압축 후 제출 (분반/학번/이름)
     - ex) 1_p_20121622_이성준.zip
-    - [Submit](https://www.dropbox.com/request/csc0Osjzq0NPaatImukX)
+    - 제출: 실습때 공지.
 ---
 ## 과제
 - 실습 3에서 했던 원주율 구하기의 오차율을 1% 미만으로 할 것
