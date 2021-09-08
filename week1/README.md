@@ -72,7 +72,7 @@ Monte Carlo Simulation
 ![assing_answer](./img/assign_answer.png)
 ### 제출
 - 파일 제출
-    - 제출기한: ~~실습 종료일로부터 ~~ 까지~~ (수정예정)
+    - 제출기한: 다음 실습 전까지 제출. (일주일)
     - visual studio 빌드 - 솔루션 정리
     - 폴더에서 debug, release, x86 파일 삭제
     - 실행되었을때의 GUI 스크린샷 ({학번}.png)
