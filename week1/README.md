@@ -61,6 +61,7 @@ Monte Carlo Simulation
         - 20210907_p2_3.png (스크린샷)
         - 20210907_p3_1.png (스크린샷)
     - 위의 파일들을 1_p_20210907_고소실.zip 으로 압축 후 제출 (분반/학번/이름)
+    - ex) 1_p_20121622_이성준.zip
     - [Submit](https://www.dropbox.com/request/csc0Osjzq0NPaatImukX)
 ---
 ## 과제
